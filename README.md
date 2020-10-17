@@ -1,4 +1,4 @@
-# Curso de basico a avanzado JAVA
+# Curso JAVA de básico a avanzado
 
 ### Variables
 - Son lo más importante de un lenguaje, son las entidades, contienen valores o datos.
@@ -9,13 +9,12 @@
 #### Categorias de tipo
 Existen dos tipos de datos principales:  primitivos y referencia
 - Primitivos: contienen un solo valor e incluyen los tipos como los enteros, flotante, los caracteres, booleanos, etc.
-
-> los boolean es primitivo de un solo bit (true o false), 
-> el char es un carácter de 16 bits y va con comilla simple char a = 'a'
-> el entero son de 4 tipos y no tienen precisión: byte, shot, int y long
-> byte entero muy pequeño, short: entero pequeño
-> int y long: entero y entero grande son de 32 y 64 bits respectivamente
-> los reales pueden ser: float o de doble precisión: double
+ - los boolean es primitivo de un solo bit (true o false), 
+ - el char es un carácter de 16 bits y va con comilla simple char a = 'a'
+ - el entero son de 4 tipos y no tienen precisión: byte, shot, int y long
+ - byte entero muy pequeño, short: entero pequeño
+ - int y long: entero y entero grande son de 32 y 64 bits respectivamente
+ - los reales pueden ser: float o de doble precisión: double
 
 - Referencia: tenemos los arreglos, las clases y las interfaces
 
